@@ -1,5 +1,5 @@
-
-let l="apple";
-let m="mango";
-console.log(l.concat(m));
-console.log(l+m);
+Sum (3,4);
+function sum(a,b)
+{
+console.log(a+b);
+}
